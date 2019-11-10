@@ -1,0 +1,69 @@
+[15-Mar-2018 10:56:34 Etc/GMT] PHP Warning:  require(/home/digisnbm/public_html/public/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/digisnbm/public_html/public/index.php on line 22
+[15-Mar-2018 10:56:34 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/digisnbm/public_html/public/../bootstrap/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/digisnbm/public_html/public/index.php on line 22
+[15-Mar-2018 10:57:34 Etc/GMT] PHP Warning:  require(/home/digisnbm/public_html/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/digisnbm/public_html/index.php on line 22
+[15-Mar-2018 10:57:34 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/digisnbm/public_html/../bootstrap/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/digisnbm/public_html/index.php on line 22
+[15-Mar-2018 11:00:57 Etc/GMT] PHP Warning:  require(/home/digisnbm/public_html/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/digisnbm/public_html/index.php on line 22
+[15-Mar-2018 11:00:57 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/digisnbm/public_html/../bootstrap/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/digisnbm/public_html/index.php on line 22
+[15-Mar-2018 11:00:59 Etc/GMT] PHP Warning:  require(/home/digisnbm/public_html/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/digisnbm/public_html/index.php on line 22
+[15-Mar-2018 11:00:59 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/digisnbm/public_html/../bootstrap/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/digisnbm/public_html/index.php on line 22
+[15-Mar-2018 11:01:00 Etc/GMT] PHP Warning:  require(/home/digisnbm/public_html/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/digisnbm/public_html/index.php on line 22
+[15-Mar-2018 11:01:00 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/digisnbm/public_html/../bootstrap/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/digisnbm/public_html/index.php on line 22
+[15-Mar-2018 11:01:00 Etc/GMT] PHP Warning:  require(/home/digisnbm/public_html/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/digisnbm/public_html/index.php on line 22
+[15-Mar-2018 11:01:00 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/digisnbm/public_html/../bootstrap/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/digisnbm/public_html/index.php on line 22
+[15-Mar-2018 11:01:00 Etc/GMT] PHP Warning:  require(/home/digisnbm/public_html/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/digisnbm/public_html/index.php on line 22
+[15-Mar-2018 11:01:00 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/digisnbm/public_html/../bootstrap/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/digisnbm/public_html/index.php on line 22
+[15-Mar-2018 11:01:01 Etc/GMT] PHP Warning:  require(/home/digisnbm/public_html/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/digisnbm/public_html/index.php on line 22
+[15-Mar-2018 11:01:01 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/digisnbm/public_html/../bootstrap/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/digisnbm/public_html/index.php on line 22
+[15-Mar-2018 11:01:01 Etc/GMT] PHP Warning:  require(/home/digisnbm/public_html/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/digisnbm/public_html/index.php on line 22
+[15-Mar-2018 11:01:01 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/digisnbm/public_html/../bootstrap/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/digisnbm/public_html/index.php on line 22
+[15-Mar-2018 11:01:01 Etc/GMT] PHP Warning:  require(/home/digisnbm/public_html/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/digisnbm/public_html/index.php on line 22
+[15-Mar-2018 11:01:01 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/digisnbm/public_html/../bootstrap/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/digisnbm/public_html/index.php on line 22
+[15-Mar-2018 11:02:06 Etc/GMT] PHP Warning:  require(/home/digisnbm/public_html/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/digisnbm/public_html/index.php on line 22
+[15-Mar-2018 11:02:06 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/digisnbm/public_html/../bootstrap/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/digisnbm/public_html/index.php on line 22
+[15-Mar-2018 11:03:37 Etc/GMT] PHP Warning:  require(/home/digisnbm/public_html/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/digisnbm/public_html/index.php on line 22
+[15-Mar-2018 11:03:37 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/digisnbm/public_html/../bootstrap/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/digisnbm/public_html/index.php on line 22
+[15-Mar-2018 11:03:58 Etc/GMT] PHP Warning:  require(/home/digisnbm/public_html/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/digisnbm/public_html/index.php on line 22
+[15-Mar-2018 11:03:58 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/digisnbm/public_html/../bootstrap/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/digisnbm/public_html/index.php on line 22
+[15-Mar-2018 11:07:05 Etc/GMT] PHP Warning:  require(/home/digisnbm/public_html/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/digisnbm/public_html/index.php on line 22
+[15-Mar-2018 11:07:05 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/digisnbm/public_html/../bootstrap/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/digisnbm/public_html/index.php on line 22
+[10-Apr-2018 15:01:10 Etc/GMT] PHP Notice:  Undefined variable: number in /home/digisnbm/public_html/mailer.php on line 73
+[10-Apr-2018 15:01:10 Etc/GMT] PHP Notice:  Undefined variable: number_content in /home/digisnbm/public_html/mailer.php on line 73
+[10-Apr-2018 15:03:16 Etc/GMT] PHP Notice:  Undefined variable: number in /home/digisnbm/public_html/mailer.php on line 73
+[10-Apr-2018 15:03:16 Etc/GMT] PHP Notice:  Undefined variable: number_content in /home/digisnbm/public_html/mailer.php on line 73
+[13-Apr-2018 04:15:42 Etc/GMT] PHP Parse error:  syntax error, unexpected '$email_content' (T_VARIABLE), expecting ',' or ')' in /home/digisnbm/public_html/mailer.php on line 89
+[13-Apr-2018 04:16:42 Etc/GMT] PHP Notice:  Undefined variable: number in /home/digisnbm/public_html/mailer.php on line 73
+[13-Apr-2018 04:16:42 Etc/GMT] PHP Notice:  Undefined variable: number_content in /home/digisnbm/public_html/mailer.php on line 73
+[13-Apr-2018 04:16:42 Etc/GMT] PHP Notice:  Undefined variable: number in /home/digisnbm/public_html/mailer.php on line 89
+[13-Apr-2018 04:16:42 Etc/GMT] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/digisnbm/public_html/mailer.php on line 89
+[13-Apr-2018 04:17:52 Etc/GMT] PHP Notice:  Undefined variable: number in /home/digisnbm/public_html/mailer.php on line 73
+[13-Apr-2018 04:17:52 Etc/GMT] PHP Notice:  Undefined variable: number_content in /home/digisnbm/public_html/mailer.php on line 73
+[13-Apr-2018 04:17:52 Etc/GMT] PHP Notice:  Undefined variable: number in /home/digisnbm/public_html/mailer.php on line 89
+[13-Apr-2018 04:17:52 Etc/GMT] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/digisnbm/public_html/mailer.php on line 89
+[13-Apr-2018 04:20:18 Etc/GMT] PHP Notice:  Undefined variable: number in /home/digisnbm/public_html/mailer.php on line 73
+[13-Apr-2018 04:20:18 Etc/GMT] PHP Notice:  Undefined variable: number_content in /home/digisnbm/public_html/mailer.php on line 73
+[13-Apr-2018 04:20:18 Etc/GMT] PHP Notice:  Undefined variable: number in /home/digisnbm/public_html/mailer.php on line 89
+[13-Apr-2018 04:20:18 Etc/GMT] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/digisnbm/public_html/mailer.php on line 89
+[13-Apr-2018 04:24:36 Etc/GMT] PHP Notice:  Undefined variable: number in /home/digisnbm/public_html/mailer.php on line 73
+[13-Apr-2018 04:24:36 Etc/GMT] PHP Notice:  Undefined variable: number_content in /home/digisnbm/public_html/mailer.php on line 73
+[13-Apr-2018 04:29:59 Etc/GMT] PHP Notice:  Undefined variable: number in /home/digisnbm/public_html/mailer.php on line 73
+[13-Apr-2018 04:29:59 Etc/GMT] PHP Notice:  Undefined variable: number_content in /home/digisnbm/public_html/mailer.php on line 73
+[18-Apr-2018 17:34:38 Etc/GMT] PHP Notice:  Undefined variable: number in /home/digisnbm/public_html/mailer.php on line 73
+[18-Apr-2018 17:34:38 Etc/GMT] PHP Notice:  Undefined variable: number_content in /home/digisnbm/public_html/mailer.php on line 73
+[18-Apr-2018 17:34:38 Etc/GMT] PHP Notice:  Undefined variable: number in /home/digisnbm/public_html/mailer.php on line 89
+[18-Apr-2018 17:34:38 Etc/GMT] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/digisnbm/public_html/mailer.php on line 89
+[02-May-2018 03:24:08 Etc/GMT] PHP Notice:  Undefined variable: number in /home/digisnbm/public_html/mailer.php on line 73
+[02-May-2018 03:24:08 Etc/GMT] PHP Notice:  Undefined variable: number_content in /home/digisnbm/public_html/mailer.php on line 73
+[02-May-2018 03:24:08 Etc/GMT] PHP Notice:  Undefined variable: number in /home/digisnbm/public_html/mailer.php on line 89
+[02-May-2018 03:24:08 Etc/GMT] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/digisnbm/public_html/mailer.php on line 89
+[10-May-2018 08:56:11 Etc/GMT] PHP Notice:  Undefined variable: number in /home/digisnbm/public_html/mailer.php on line 73
+[10-May-2018 08:56:11 Etc/GMT] PHP Notice:  Undefined variable: number_content in /home/digisnbm/public_html/mailer.php on line 73
+[10-May-2018 08:56:11 Etc/GMT] PHP Notice:  Undefined variable: number in /home/digisnbm/public_html/mailer.php on line 89
+[10-May-2018 08:56:11 Etc/GMT] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/digisnbm/public_html/mailer.php on line 89
+[09-Jun-2018 08:59:54 Etc/GMT] PHP Notice:  Undefined variable: number in /home/digisnbm/public_html/mailer.php on line 73
+[09-Jun-2018 08:59:54 Etc/GMT] PHP Notice:  Undefined variable: number_content in /home/digisnbm/public_html/mailer.php on line 73
+[09-Jun-2018 08:59:54 Etc/GMT] PHP Notice:  Undefined variable: number in /home/digisnbm/public_html/mailer.php on line 89
+[09-Jun-2018 08:59:54 Etc/GMT] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/digisnbm/public_html/mailer.php on line 89
+[18-Jul-2018 15:24:07 Etc/GMT] PHP Notice:  Undefined variable: number in /home/digisnbm/public_html/mailer.php on line 73
+[18-Jul-2018 15:24:07 Etc/GMT] PHP Notice:  Undefined variable: number_content in /home/digisnbm/public_html/mailer.php on line 73
+[18-Jul-2018 15:24:07 Etc/GMT] PHP Notice:  Undefined variable: number in /home/digisnbm/public_html/mailer.php on line 89
+[18-Jul-2018 15:24:07 Etc/GMT] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/digisnbm/public_html/mailer.php on line 89
